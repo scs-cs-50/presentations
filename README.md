@@ -3,5 +3,5 @@ presentations
 
 Presentations from CS50 class
 
-There's also a [wiki](wiki) with other information.
+There's also a [wiki](http://github.com/scs-cs-50/presentations/wiki) with other information.
 
